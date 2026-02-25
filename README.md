@@ -99,5 +99,5 @@ Refactor: Basic_Join - African Cities - simplified JOIN condition
 
 ## 👤 Author
 
-**Your Name**  
+**Ankur Dahake**  
 [GitHub](https://github.com/yourusername) · [HackerRank](https://www.hackerrank.com/yourusername)
